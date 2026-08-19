@@ -2,3 +2,4 @@ Learning Git step by step
 working on my feature branch
 main branch edit
 feature branch edit
+BOTTOM LINE: Done with Phase 1!
